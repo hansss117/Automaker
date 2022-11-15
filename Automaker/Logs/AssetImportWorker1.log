@@ -314,3 +314,402 @@ Received Import Request.
   path: Assets/BrokenVector/LowPolyRoadPack/Demo/Landscape/Houses.001.dae
   artifactKey: Guid(5040aa18d61033e489ea9265c4f2cca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/BrokenVector/LowPolyRoadPack/Demo/Landscape/Houses.001.dae using Guid(5040aa18d61033e489ea9265c4f2cca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f027de962b5c3b77817fece22a113d') in 0.266435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2792.740550 seconds.
+  path: Assets/BrokenVector/LowPolyRoadPack/Demo/Landscape/Houses.001.dae
+  artifactKey: Guid(5040aa18d61033e489ea9265c4f2cca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyRoadPack/Demo/Landscape/Houses.001.dae using Guid(5040aa18d61033e489ea9265c4f2cca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb60301e15663ce73947be9a0e8341e') in 0.141723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 176.360611 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack
+  artifactKey: Guid(78106b1fc40d68141ad0a91c587a94f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack using Guid(78106b1fc40d68141ad0a91c587a94f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df3d79f85b287824ee58191bd5a1d08') in 0.012923 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.061107 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs
+  artifactKey: Guid(08017aafbf6cdf946a3c10a0bada093d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs using Guid(08017aafbf6cdf946a3c10a0bada093d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c6a12afabd666fbb6edbf3106d6f0b') in 0.010503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.961717 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard
+  artifactKey: Guid(2d402b25fe030dc4890fddcd3622b7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard using Guid(2d402b25fe030dc4890fddcd3622b7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e02c6d5ee924c32d31a5eaa4314c9cd') in 0.013989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.087342 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/GiveWaySign.prefab
+  artifactKey: Guid(4436cc69245bb8248ba440f0b8543349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/GiveWaySign.prefab using Guid(4436cc69245bb8248ba440f0b8543349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c60587dc4826d4f2240a3d524f9509e4') in 0.501622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/KangarooSign.prefab
+  artifactKey: Guid(762eec1ea77e4494da47425524fdfe75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/KangarooSign.prefab using Guid(762eec1ea77e4494da47425524fdfe75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf7d624c1bc3105bdb0ba2d69d9e6bc') in 0.074998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoUTurnSign.prefab
+  artifactKey: Guid(c7423245adc2f8c43a5c5533c582168b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoUTurnSign.prefab using Guid(c7423245adc2f8c43a5c5533c582168b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e5a6258fe1d112c00b9d1b4d5379ea') in 0.106785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RailwayCrossing.prefab
+  artifactKey: Guid(91dd87c6eae03474b9edcd7edc1079fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RailwayCrossing.prefab using Guid(91dd87c6eae03474b9edcd7edc1079fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9850650da9e41e8b85a528c8c93a699e') in 0.265716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/SlowSign.prefab
+  artifactKey: Guid(f62a44e493c66b347afcd24a4d655a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/SlowSign.prefab using Guid(f62a44e493c66b347afcd24a4d655a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66049686a1bdaaf5bad09052a35f149c') in 0.141016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RoundaboutSign.prefab
+  artifactKey: Guid(2accbc85e34372343ad7562614c46642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RoundaboutSign.prefab using Guid(2accbc85e34372343ad7562614c46642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81910992e2c535bec79b3ad9d32af7c') in 0.079188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/SafetyZoneSign.prefab
+  artifactKey: Guid(d3f4cb3a2feeccf418bd8cde200f4bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/SafetyZoneSign.prefab using Guid(d3f4cb3a2feeccf418bd8cde200f4bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b21b2f924f0214a65d7b88571dac30') in 0.104208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/StopSign.prefab
+  artifactKey: Guid(b514d3e6f5f20554e8da082872d1ab96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/StopSign.prefab using Guid(b514d3e6f5f20554e8da082872d1ab96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b83e214f649147cd02798e1c999a2ffe') in 0.082828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoRightTurnSign.prefab
+  artifactKey: Guid(f5b7c467a73afc2458b1df8b481e0de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoRightTurnSign.prefab using Guid(f5b7c467a73afc2458b1df8b481e0de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a620de29b95aee78256b37f297b51d8b') in 0.101556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoEntrySign.prefab
+  artifactKey: Guid(97c524af2246291439e0f97f498925f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/NoEntrySign.prefab using Guid(97c524af2246291439e0f97f498925f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfd06977275fc18796dccf38f892474a') in 0.074559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RoughSurface.prefab
+  artifactKey: Guid(cda90f2fbfacae3489a03f6c10fbd60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/RoughSurface.prefab using Guid(cda90f2fbfacae3489a03f6c10fbd60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '886645986596fdbd9b9d32dab7e9c83e') in 0.093078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/PedestrianCrossingSign.prefab
+  artifactKey: Guid(8e68c61ebdd80054f9437dc4228b4eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/PedestrianCrossingSign.prefab using Guid(8e68c61ebdd80054f9437dc4228b4eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0aab7ab913c6d14c60eba992cd76de') in 0.108719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.289812 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs
+  artifactKey: Guid(946b716e9db244a4b965c9c683d6ede2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs using Guid(946b716e9db244a4b965c9c683d6ede2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2c0bec34fcb1a557219495c7272c6a') in 0.009575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.098646 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/60SpeedLimitSign.prefab
+  artifactKey: Guid(71cda43f9a519674284833dab7680933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/60SpeedLimitSign.prefab using Guid(71cda43f9a519674284833dab7680933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806043c68a41a9e721ae1444d05359cc') in 0.131599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/110SpeedLimitSign.prefab
+  artifactKey: Guid(866a30b40a1bc384d90f56f84f704552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/110SpeedLimitSign.prefab using Guid(866a30b40a1bc384d90f56f84f704552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053dc7ec365c87f6a4a594e541a3c1b6') in 0.081763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/80SpeedLimitSign.prefab
+  artifactKey: Guid(31bce5ba7af8d0940ab316e3a3403da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Speed Signs/80SpeedLimitSign.prefab using Guid(31bce5ba7af8d0940ab316e3a3403da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f917f901f8507e28354c4449bb57f6f') in 0.075514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 150.948939 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons
+  artifactKey: Guid(93e0c36dcff2fe340bd4d1eb1c4fe487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons using Guid(93e0c36dcff2fe340bd4d1eb1c4fe487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389be51dd7adae9cbe97840af57520ce') in 0.010411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 99.226365 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/Next12kmAddOn.prefab
+  artifactKey: Guid(1826548d572e93549ae35775848256ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/Next12kmAddOn.prefab using Guid(1826548d572e93549ae35775848256ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4adbdefa7343d3c51337637043cd30') in 0.088678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/RailwayCrossingAddOn.prefab
+  artifactKey: Guid(32451929353d6024a8b904c6485238cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/RailwayCrossingAddOn.prefab using Guid(32451929353d6024a8b904c6485238cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22fd3f6078fd739dee745e982c14406') in 0.120755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/RampSpeedAddOn.prefab
+  artifactKey: Guid(01579d1dd825bd846806ef11be21e7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Australian Road Sign Pack/Prefabs/Standard/Add Ons/RampSpeedAddOn.prefab using Guid(01579d1dd825bd846806ef11be21e7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ba67c094a9903b5183909819a336522') in 0.080945 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008479 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Automaker\Automaker\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Automaker\Automaker\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 12.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.429 seconds
+Domain Reload Profiling:
+	ReloadAssembly (7444ms)
+		BeginReloadAssembly (5879ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (818ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (11ms)
+			CreateAndSetChildDomain (3476ms)
+		EndReloadAssembly (1298ms)
+			LoadAssemblies (245ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (466ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (138ms)
+			SetupLoadedEditorAssemblies (479ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (49ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (13ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (310ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 28.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3260 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (24.8 KB). Loaded Objects now: 3769.
+Memory consumption went from 146.0 MB to 145.9 MB.
+Total: 80.875700 ms (FindLiveObjects: 0.708800 ms CreateObjectMapping: 0.296100 ms MarkObjects: 79.822600 ms  DeleteObjects: 0.046400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 585.937978 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type5 Big.prefab
+  artifactKey: Guid(6bea119038cba374387862a060db5358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type5 Big.prefab using Guid(6bea119038cba374387862a060db5358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '370caa25a461a7e059eddf1e222e6f32') in 0.418073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type4 Big.prefab
+  artifactKey: Guid(6c7e01809ee343847a660faeaa78d718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type4 Big.prefab using Guid(6c7e01809ee343847a660faeaa78d718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c2ad26e26d3c2112f8cddf07d71581') in 0.025939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type6 Small.prefab
+  artifactKey: Guid(2d525f55a99e5bd4e98aec363e675a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type6 Small.prefab using Guid(2d525f55a99e5bd4e98aec363e675a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6c9665714fbcfcc671e158400393c0') in 0.055081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 02.prefab
+  artifactKey: Guid(c107d6218da3747479b38075e3042255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 02.prefab using Guid(c107d6218da3747479b38075e3042255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b034558e14cabca789bf3f15aba4512') in 0.026669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 03.prefab
+  artifactKey: Guid(ab5e0beb1c36778479983f28b65d97dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 03.prefab using Guid(ab5e0beb1c36778479983f28b65d97dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46280702f5f7bd47c79d44b8173a0cdc') in 0.049996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 01.prefab
+  artifactKey: Guid(b10237067370545479ead9bdac817d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 01.prefab using Guid(b10237067370545479ead9bdac817d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad331f908f537d7663dacd9217ddf8dd') in 0.022374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type4 Small.prefab
+  artifactKey: Guid(da8e893168526164591f81d60c0e06b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type4 Small.prefab using Guid(da8e893168526164591f81d60c0e06b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b824306cafc1e988844af0ab4fbbfb') in 0.054187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Animated
+  artifactKey: Guid(51f1f5e6188c08f4bbaf9c01cd7233d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Animated using Guid(51f1f5e6188c08f4bbaf9c01cd7233d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c40141ba02a445087c1ec7e9f26af5') in 0.008018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Animated/Fence Type3 Door.prefab
+  artifactKey: Guid(c3db2cebc8fb0e54ab37bf47bacb4b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Animated/Fence Type3 Door.prefab using Guid(c3db2cebc8fb0e54ab37bf47bacb4b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318e1e03941e0384e85e2b87f6f2e5b2') in 0.085257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type1 02.prefab
+  artifactKey: Guid(d4f06407f06d8cf41b643015132cafca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type1 02.prefab using Guid(d4f06407f06d8cf41b643015132cafca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427b0e76c4a94df80ed0e98d86eed98d') in 0.023921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type3 02.prefab
+  artifactKey: Guid(49e86d56904ce434e84ead31c131cfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type3 02.prefab using Guid(49e86d56904ce434e84ead31c131cfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b5bd5c74b4907b9ddd3b6addc43aa6') in 0.055954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Animated/Fence Type1 Door.prefab
+  artifactKey: Guid(9c385ba4a2784df4e957601bf4fafac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Animated/Fence Type1 Door.prefab using Guid(9c385ba4a2784df4e957601bf4fafac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ece1090c9d3fe0cd5d3638ab9d2fcd') in 0.085917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type6 Big.prefab
+  artifactKey: Guid(ac1f0ef7b8bec92458549c915b3114b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type6 Big.prefab using Guid(ac1f0ef7b8bec92458549c915b3114b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843feaaf4c90be087b8399e5ec4c6072') in 0.025665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type5 Small.prefab
+  artifactKey: Guid(a14aa485a8d4afa46a5e7e72b745ad92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type5 Small.prefab using Guid(a14aa485a8d4afa46a5e7e72b745ad92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d53dcc17ff4b8be0a093aa80053cb5e') in 0.050356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type1 01.prefab
+  artifactKey: Guid(4cc487e002327cb43995ca1871bd142e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type1 01.prefab using Guid(4cc487e002327cb43995ca1871bd142e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b2a9dabc2b1eb201e4bef49cd649162') in 0.022154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Animated/Fence Type2 Door.prefab
+  artifactKey: Guid(3ad8812903a70904f96d2fb56031ca18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Animated/Fence Type2 Door.prefab using Guid(3ad8812903a70904f96d2fb56031ca18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b72a24c810e9358056eb4971a19a7f') in 0.053678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type3 01.prefab
+  artifactKey: Guid(ee17d9afd26027744b8c7d0cc0f25022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type3 01.prefab using Guid(ee17d9afd26027744b8c7d0cc0f25022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37040aec1a244a2a417e952b758fd50c') in 0.035876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 196.794186 seconds.
+  path: Assets/BrokenVector/LowPolyRoadPack/Prefabs/Car 2.prefab
+  artifactKey: Guid(8a6f09027b5c26b4b8d2f6d00dbce6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyRoadPack/Prefabs/Car 2.prefab using Guid(8a6f09027b5c26b4b8d2f6d00dbce6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24cb1b02f6c7f0054d8ced2c6da9131') in 0.085081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1432.406719 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Materials
+  artifactKey: Guid(12376baf0562e694b9d8a1be4b41840e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Materials using Guid(12376baf0562e694b9d8a1be4b41840e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29587e04a0de25545853a7feffee81f0') in 0.010285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.247509 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs
+  artifactKey: Guid(bee983e3ea1ffee43b383b2474f40bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs using Guid(bee983e3ea1ffee43b383b2474f40bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca31383f8e60b647bff3e6551103aacb') in 0.009808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 99.444490 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type1 01.prefab
+  artifactKey: Guid(4cc487e002327cb43995ca1871bd142e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type1 01.prefab using Guid(4cc487e002327cb43995ca1871bd142e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50810cfed7b54a3be828d76e086afca5') in 0.027903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type5 Big.prefab
+  artifactKey: Guid(6bea119038cba374387862a060db5358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type5 Big.prefab using Guid(6bea119038cba374387862a060db5358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47d34583ac4071cc6e875b249b5adcb2') in 0.039439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type4 Big.prefab
+  artifactKey: Guid(6c7e01809ee343847a660faeaa78d718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type4 Big.prefab using Guid(6c7e01809ee343847a660faeaa78d718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddda2647342851f3945482805eb5f003') in 0.012949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type6 Small.prefab
+  artifactKey: Guid(2d525f55a99e5bd4e98aec363e675a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type6 Small.prefab using Guid(2d525f55a99e5bd4e98aec363e675a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6529409b637fbd8978ccb3646538d8d7') in 0.015265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 02.prefab
+  artifactKey: Guid(c107d6218da3747479b38075e3042255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 02.prefab using Guid(c107d6218da3747479b38075e3042255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f271d5d79cdf9e33c68ac0efe49b90ca') in 0.011744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 03.prefab
+  artifactKey: Guid(ab5e0beb1c36778479983f28b65d97dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 03.prefab using Guid(ab5e0beb1c36778479983f28b65d97dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2707b9a7eea80ff67115f4609f2a4ea2') in 0.012486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 01.prefab
+  artifactKey: Guid(b10237067370545479ead9bdac817d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type2 01.prefab using Guid(b10237067370545479ead9bdac817d9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5739b7fa59b6e8e88f65bdadb1dea03') in 0.011816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type4 Small.prefab
+  artifactKey: Guid(da8e893168526164591f81d60c0e06b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type4 Small.prefab using Guid(da8e893168526164591f81d60c0e06b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91715a5cd500c725668b3e6aa24809dd') in 0.024292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type1 02.prefab
+  artifactKey: Guid(d4f06407f06d8cf41b643015132cafca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type1 02.prefab using Guid(d4f06407f06d8cf41b643015132cafca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c233d35facb4b78dc5d105c70b2b189e') in 0.021670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type3 02.prefab
+  artifactKey: Guid(49e86d56904ce434e84ead31c131cfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type3 02.prefab using Guid(49e86d56904ce434e84ead31c131cfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84693e33800068fe4bfda9add23bed29') in 0.019160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type6 Big.prefab
+  artifactKey: Guid(ac1f0ef7b8bec92458549c915b3114b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type6 Big.prefab using Guid(ac1f0ef7b8bec92458549c915b3114b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '160e108a7c56eaaca4e048674590fdfe') in 0.016262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type5 Small.prefab
+  artifactKey: Guid(a14aa485a8d4afa46a5e7e72b745ad92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type5 Small.prefab using Guid(a14aa485a8d4afa46a5e7e72b745ad92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf1a8e2d8413d7b9e0276216f3e7a45') in 0.034753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type3 01.prefab
+  artifactKey: Guid(ee17d9afd26027744b8c7d0cc0f25022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyFencePack/Prefabs/Fence Type3 01.prefab using Guid(ee17d9afd26027744b8c7d0cc0f25022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33cb60e2aaf5e73b5fd19dc87da4f4e5') in 0.020835 seconds 
