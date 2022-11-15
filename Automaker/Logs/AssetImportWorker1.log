@@ -1,0 +1,316 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.11f1 (0a5ca18544bf) revision 679073'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Core' Language: 'fr' Physical Memory: 12173 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Unity\2021.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Automaker/Automaker
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+57266
+Successfully changed project path to: D:/Automaker/Automaker
+D:/Automaker/Automaker
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 154.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.11f1 (0a5ca18544bf)
+[Subsystems] Discovering subsystems at path D:/Unity/2021.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Automaker/Automaker/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     1977 MB
+    Driver:   30.0.15.1295
+Initialize mono
+Mono path[0] = 'D:/Unity/2021.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2021.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Unity/2021.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2021.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005919 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 141.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.371 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1371ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (955ms)
+			LoadAssemblies (195ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (226ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (568ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (142ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (302ms)
+				ProcessInitializeOnLoadMethodAttributes (109ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.011491 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Automaker\Automaker\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Automaker\Automaker\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.818 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5819ms)
+		BeginReloadAssembly (186ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (5421ms)
+			LoadAssemblies (3416ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1355ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (567ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (106ms)
+				ProcessInitializeOnLoadAttributes (404ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3271 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (56.3 KB). Loaded Objects now: 3748.
+Memory consumption went from 141.8 MB to 141.7 MB.
+Total: 5.886200 ms (FindLiveObjects: 1.483800 ms CreateObjectMapping: 0.400800 ms MarkObjects: 3.894600 ms  DeleteObjects: 0.104600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 399.201502 seconds.
+  path: Assets/New Terrain 3.asset
+  artifactKey: Guid(54bc12c6fe2430c4c885ef41d669daf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 3.asset using Guid(54bc12c6fe2430c4c885ef41d669daf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6805c4489aa5d18234ae9219d2de0af8') in 0.313844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 266.841311 seconds.
+  path: Assets/BrokenVector/LowPolyRoadPack/Prefabs
+  artifactKey: Guid(0f48a9b0e4fdd3f42a1d84e8d51f410c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyRoadPack/Prefabs using Guid(0f48a9b0e4fdd3f42a1d84e8d51f410c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c5747c5a58d9c8594d3c85bd5cfc174') in 0.027967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/BrokenVector/LowPolyRoadPack/Prefabs/Car 1.prefab
+  artifactKey: Guid(9c91ecea7f7dce04facaeb11c977e102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyRoadPack/Prefabs/Car 1.prefab using Guid(9c91ecea7f7dce04facaeb11c977e102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75efce4814f88e0df4f8c65dcdf4b0eb') in 2.059603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8024.319265 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Meshes/ARCADE - FREE Racing Car.fbx
+  artifactKey: Guid(9ec6a8fc6925acb4abc5500eeecb8270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes/ARCADE - FREE Racing Car.fbx using Guid(9ec6a8fc6925acb4abc5500eeecb8270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da84b3a5526ec6ff10910bb4f40b573') in 14.599201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006030 seconds.
+  path: Assets/BrokenVector/LowPolyRoadPack/Models/Freeway Cross Freeway.dae
+  artifactKey: Guid(72eb0d530cf26e74caefec9fd65ad0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyRoadPack/Models/Freeway Cross Freeway.dae using Guid(72eb0d530cf26e74caefec9fd65ad0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2664430cba83ea5fe13ceb256ab2b42f') in 0.500841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Purple Variant.prefab
+  artifactKey: Guid(62010132604e8c94d96b4cb4fe6d3394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Purple Variant.prefab using Guid(62010132604e8c94d96b4cb4fe6d3394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b62694f23434e2591c690247252289') in 4.107258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Gray Variant.prefab
+  artifactKey: Guid(4d1624804e8167f479ab63c5302ff1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Gray Variant.prefab using Guid(4d1624804e8167f479ab63c5302ff1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9b1047194b45446a5d88c3e21e88d67') in 0.373804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/BrokenVector/LowPolyRoadPack/Models/Car 2.dae
+  artifactKey: Guid(77034832b22fef34387efcaeb7127eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyRoadPack/Models/Car 2.dae using Guid(77034832b22fef34387efcaeb7127eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc251af5bf9b18a697c41ea3b147b0c5') in 0.314037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car.prefab
+  artifactKey: Guid(c4cad50aa03bbca42938fe318344950b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car.prefab using Guid(c4cad50aa03bbca42938fe318344950b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76aec148721e5c7cc8b658952ea71297') in 0.143197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Blue Variant.prefab
+  artifactKey: Guid(a9cbfe7195f75844aa7ec0619ca7616f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Blue Variant.prefab using Guid(a9cbfe7195f75844aa7ec0619ca7616f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '553a7beb09b898a44653434d74666dd6') in 0.440528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Gray Variant.prefab
+  artifactKey: Guid(f430073c636116b4b9c0f5e6ddcde097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Gray Variant.prefab using Guid(f430073c636116b4b9c0f5e6ddcde097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c96987cc238192665d0d618c14525f') in 0.134216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Red Variant.prefab
+  artifactKey: Guid(8a8f57edf3523624eb9f886833e8e97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Red Variant.prefab using Guid(8a8f57edf3523624eb9f886833e8e97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db98dc3678c54b5582a588fe874f6cef') in 0.464763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Purple Variant.prefab
+  artifactKey: Guid(98c57f100a7d7684dba02b8725bbc5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Purple Variant.prefab using Guid(98c57f100a7d7684dba02b8725bbc5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7085f8b16fe4fbf0fe96efb6ff9631fe') in 0.109645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Blue Variant.prefab
+  artifactKey: Guid(e9be6b9d71ce20345b55b654f6eca5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Blue Variant.prefab using Guid(e9be6b9d71ce20345b55b654f6eca5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36269d7c5ebb8bdbcf676117045ee26b') in 0.095053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Red Variant.prefab
+  artifactKey: Guid(a82f70a5f0178974093910fc6fd84c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car Red Variant.prefab using Guid(a82f70a5f0178974093910fc6fd84c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e87a56d50d4c897e613ec72b58bba4') in 0.111798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car.prefab
+  artifactKey: Guid(133308cdb8794744caaef026bde9e1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car.prefab using Guid(133308cdb8794744caaef026bde9e1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be565d5bb43baa49a6f797fbccda38c') in 0.062075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BrokenVector/LowPolyRoadPack/Models/Car 1.dae
+  artifactKey: Guid(26e8d194fbf5bca409d8e2a931e7a028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyRoadPack/Models/Car 1.dae using Guid(26e8d194fbf5bca409d8e2a931e7a028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479766e0d2417e335c678e3336fc65be') in 0.326924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1225.453065 seconds.
+  path: Assets/Conifers [BOTD]/Shared Sources
+  artifactKey: Guid(a159082cb7e8e402c8240da353f7fcd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conifers [BOTD]/Shared Sources using Guid(a159082cb7e8e402c8240da353f7fcd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b09c544ab541df21476f2afda35838') in 0.129232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.731820 seconds.
+  path: Assets/Conifers [BOTD]/Shared Sources/Textures
+  artifactKey: Guid(f993ff6b3f7074c0db7fba22ea30ef30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conifers [BOTD]/Shared Sources/Textures using Guid(f993ff6b3f7074c0db7fba22ea30ef30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '983dfe7c7e25d9c66e3086736ae92e33') in 0.038839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036155 seconds.
+  path: Assets/Conifers [BOTD]/Shared Sources/Textures/BODT Conifer Bark Array [Albedo] [Smoothness].asset
+  artifactKey: Guid(41ebf0d05b0ec4283bcbbbc656c82aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conifers [BOTD]/Shared Sources/Textures/BODT Conifer Bark Array [Albedo] [Smoothness].asset using Guid(41ebf0d05b0ec4283bcbbbc656c82aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb1bec16e09e05f84576c8c0f72faba9') in 4.841673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Conifers [BOTD]/Shared Sources/Textures/BODT Conifer Bark Array [Normal] [AO] [Specular].asset
+  artifactKey: Guid(14f4181ca612e43c9b344f073e03a7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conifers [BOTD]/Shared Sources/Textures/BODT Conifer Bark Array [Normal] [AO] [Specular].asset using Guid(14f4181ca612e43c9b344f073e03a7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312d7208ab3ba22aad58d8c1f7c635b1') in 5.115487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.294505 seconds.
+  path: Assets/Conifers [BOTD]/Shared Sources/Textures/Billboards
+  artifactKey: Guid(eed1d7eed3f9845cf8db87a0770ca745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conifers [BOTD]/Shared Sources/Textures/Billboards using Guid(eed1d7eed3f9845cf8db87a0770ca745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b98bdfc11c1af5261fe791d8433051a') in 0.037189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.340178 seconds.
+  path: Assets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard Bare
+  artifactKey: Guid(f0ecacc88d3da4e08b53aceac88aa149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conifers [BOTD]/Shared Sources/Textures/Billboards/Billboard Bare using Guid(f0ecacc88d3da4e08b53aceac88aa149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47d0db3500c4f1bf4294ebf18cfde65') in 0.085566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 75.636910 seconds.
+  path: Assets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs/PF Conifer Medium BOTD.prefab
+  artifactKey: Guid(abdd95d0229d64588b03d2806d9cc19a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs/PF Conifer Medium BOTD.prefab using Guid(abdd95d0229d64588b03d2806d9cc19a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258b7f71058edb368223cdd9416769e2') in 10.001335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 92.843895 seconds.
+  path: Assets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs/PF Conifer Bare BOTD.prefab
+  artifactKey: Guid(539fa9bc6500e44708e0f7b2c78cbefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/Prefabs/PF Conifer Bare BOTD.prefab using Guid(539fa9bc6500e44708e0f7b2c78cbefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e460ddbbe70ad00bfb304c23872a4a78') in 1.552960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 313.253738 seconds.
+  path: Assets/BrokenVector/LowPolyRoadPack/Demo/Landscape/Houses.001.dae
+  artifactKey: Guid(5040aa18d61033e489ea9265c4f2cca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyRoadPack/Demo/Landscape/Houses.001.dae using Guid(5040aa18d61033e489ea9265c4f2cca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f027de962b5c3b77817fece22a113d') in 0.266435 seconds 
