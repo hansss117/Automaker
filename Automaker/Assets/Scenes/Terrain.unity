@@ -575,9 +575,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speedTextObject: {fileID: 215863125}
-  motorForce: 0
-  breakForce: 0
-  maxSteerAngle: 0
+  motorForce: 1000
+  breakForce: 3000
+  maxSteerAngle: 30
   frontLeftWheelCollider: {fileID: 575085684}
   frontRightWheelCollider: {fileID: 530126531}
   rearLeftWheelCollider: {fileID: 2103236954}
@@ -2886,10 +2886,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2ec7c48906af0f47b73168163857e19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  offset: {x: 0, y: 0, z: 0}
+  offset: {x: 0, y: 3.21, z: -7.5}
   target: {fileID: 137804462}
-  translateSpeed: 0
-  rotationSpeed: 0
+  translateSpeed: 10
+  rotationSpeed: 10
 --- !u!1001 &1047857169
 PrefabInstance:
   m_ObjectHideFlags: 0
