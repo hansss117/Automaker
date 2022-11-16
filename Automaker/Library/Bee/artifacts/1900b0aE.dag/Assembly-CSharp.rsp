@@ -349,6 +349,7 @@
 "Assets/script.cs"
 "Assets/Scripts/CameraFollow.cs"
 "Assets/Scripts/CarController.cs"
+"Assets/Scripts/MenuController.cs"
 -langversion:9.0
 
 /deterministic
